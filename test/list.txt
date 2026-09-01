@@ -13,3 +13,6 @@ For QQMusic's qrc.
 
 "ETERNAL BALZE - Mizuki Nana.krc"
 For Kugou Music's krc.
+
+"HypeBoy-NewJeans.lrc"
+For Enhanced lrc with A2 Extension.
